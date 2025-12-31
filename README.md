@@ -28,7 +28,7 @@ A complete **28-page guide** covering:
 - Common failure modes and fixes
 
  **Read the full guide here:**  
-[AI Ragdoll Balance Training Guide (PDF)](./AI_Ragdoll_Balance_Training_Guide.pdf)
+[[AI Ragdoll Balance Training Guide (PDF)](./AI_Ragdoll_Balance_Training_Guide.pdf)](https://github.com/memen7999/unity-ragdoll-balance-mlagents/blob/main/Ai%20Ragdoll%20Balance%20Training%20-%20Fresh%20Start%20Guide%20Unity.pdf)
 
 ---
 
